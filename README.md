@@ -1,6 +1,6 @@
 # gorilla_linter
 
-[mono edition] A highly sophisticated linter for Flutter apps.
+A highly sophisticated linter for Flutter apps.
 
 Added a rule for flutter_lints that I think is even better.
 
