@@ -1,0 +1,15 @@
+{
+    "search.exclude": {
+        "**/.fvm": true,
+        "**/*.g.dart": true,
+        "**/*.freezed.dart": true
+    },
+    "dart.flutterSdkPath": "./.fvm/flutter_sdk",
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+        // "source.organizeImports": true
+    }
+}
