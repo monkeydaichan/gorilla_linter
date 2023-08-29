@@ -1,6 +1,6 @@
 name: gorilla_linter
 description: A highly sophisticated linter for Flutter apps.
-version: 0.0.3
+version: 0.0.4
 repository: https://github.com/monkeydaichan/gorilla_linter
 
 environment:

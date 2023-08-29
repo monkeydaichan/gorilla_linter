@@ -15,3 +15,5 @@ dev_dependencies:
 
 - avoid_using_hardcoded_strings  
   Avoid using hardcoded strings in Text widgets. Use i18n or similar internationalization techniques instead.
+- avoid_using_return_string_literal
+  Avoid using to return strings. Use i18n or similar internationalization techniques instead.
